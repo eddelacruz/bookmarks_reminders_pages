@@ -1,0 +1,63 @@
+9:40 AM 11/28/2012
+search how to correctly locate resource on upper folder
+
+list of 3d movies to watch
+the lorax
+wreck it ralph
+the croods
+rise of the guardians
+
+
+Milestones
+1. create Dashboard, Patients, Scheduler, Stream -> Surveillance
+2. Services >> dapat pag click nung isang date sa calendar, reflected un sa today's appointments
+
+
+Modules
+Patients
+Scheduler
+Services
+Surveillance - defunct
+
+
+tutorials
+x Git
+Play framework
+Scala
+Json
+Jquery
+What is MVC pattern?
+
+tools
+play
+x intellij - scala
+x git bash
+jquery
+sublime text
+console
+x jsfiddle.net
+jsonlint.com
+x trello.com
+x github.com
+
+
+Autocomplete w/ framework http://jsfiddle.net/XKC6r/
+microphone <input type="text" x-webkit-speech>
+
+IT systems are essential to helping organizations turn volatility to their advantage. They must be able to quickly gather market and operational data internally and externally and analyze the information in real time. Internal reporting systems need to be flexible and provide historical, real-time and predictive performance indicators. IT systems must support greater collaboration and visibility across functions, business units and geographies.
+-ser leo 10:20 PM 11/17/2012 
+
+7:08 PM 11/30/2012
+-ipakita kay jo lahat ng bookmarks about capstone http://www.youtube.com/watch?v=fq3xbKmjncY&feature=related
+-monique for docu alongside jo
+-jowell start of webservice
+-billy still chart with clicking
+-cindy for login
+	>modify column type in services as code
+	>gender sa patient table
+	>"treatment_plan" table, columns(dental_serivice_id - fk, dentist_id - fk patient_id - fk, date_scheduled, date_performed) yan po ung naisip ko..
+	
+
+
+
+???????????????????????????????
